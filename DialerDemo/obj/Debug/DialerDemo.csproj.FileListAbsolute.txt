@@ -1,0 +1,28 @@
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\DialerDemo.exe.config
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\DialerDemo.exe
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\DialerDemo.pdb
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\RabbitMQ.Client.dll
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\obj\Debug\DialerDemo.csproj.CoreCompileInputs.cache
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\obj\Debug\DialerDemo.csproj.CopyComplete
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\obj\Debug\DialerDemo.exe
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\obj\Debug\DialerDemo.pdb
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\NLog.dll
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\NLog.xml
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\bin\Debug\NLog.config
+C:\Users\a.nikolakopoulos\source\repos\DialerDemo\DialerDemo\obj\Debug\DialerDemo.csprojAssemblyReference.cache
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\NLog.config
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\DialerDemo.exe.config
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\DialerDemo.exe
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\DialerDemo.pdb
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\obj\Debug\DialerDemo.exe.config
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\obj\Debug\DialerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\obj\Debug\DialerDemo.csproj.CopyComplete
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\obj\Debug\DialerDemo.exe
+C:\Users\Ang\Documents\Visual Studio 2017\DialerDemo\DialerDemo\obj\Debug\DialerDemo.pdb

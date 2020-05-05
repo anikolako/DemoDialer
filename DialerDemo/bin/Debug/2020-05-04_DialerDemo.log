@@ -1,0 +1,56 @@
+2020-05-04 21:15:27.1758|15316|INFO|DialerDemo.Program.Main|Application Started
+2020-05-04 21:15:29.5050|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 0 and duration 1
+2020-05-04 21:15:29.5540|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 1 and duration 4
+2020-05-04 21:15:29.5700|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 2 and duration 63
+2020-05-04 21:15:29.5890|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 5 and duration 0
+2020-05-04 21:15:29.5890|15316|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 55a04618-3ced-4174-bb26-20756210ebf3, callId 123ab, phonenumber 2104848488, origin 0, cleintId 31231, Duration 68, Time 4/5/2020 9:15:29 μμ
+2020-05-04 21:15:29.6050|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 1 and duration 5
+2020-05-04 21:15:29.6740|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 3 and duration 1
+2020-05-04 21:15:29.6900|15316|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id bfc57f67-6012-4257-b4fd-42856ba02562, callId 123ac, phonenumber 6984755636, origin 0, cleintId 31231, Duration 6, Time 4/5/2020 9:15:29 μμ
+2020-05-04 21:15:29.6900|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 5 and duration 0
+2020-05-04 21:15:29.7270|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 1 and duration 7
+2020-05-04 21:15:29.7420|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 2 and duration 125
+2020-05-04 21:15:29.7560|15316|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 5 and duration 0
+2020-05-04 21:15:29.7560|15316|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 197a01e8-4490-4320-b046-3b12d9cff2ff, callId 123ad, phonenumber 697145256, origin 0, cleintId 31231, Duration 132, Time 4/5/2020 9:15:29 μμ
+2020-05-04 21:18:44.2181|4388|INFO|DialerDemo.Program.Main|Application Started
+2020-05-04 21:18:45.5932|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 0 and duration 1
+2020-05-04 21:18:45.6112|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 1 and duration 4
+2020-05-04 21:18:45.6262|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 2 and duration 63
+2020-05-04 21:18:45.6712|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 5 and duration 1
+2020-05-04 21:18:45.6712|4388|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 6054f273-b615-4e9f-8a9e-b29e7a593e73, callId 123ab, phonenumber 2104848488, origin 0, cleintId 31231, Duration 69, Time 4/5/2020 9:18:45 μμ
+2020-05-04 21:18:45.7192|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 1 and duration 5
+2020-05-04 21:18:45.7432|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 3 and duration 1
+2020-05-04 21:18:45.7582|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 5 and duration 1
+2020-05-04 21:18:45.7582|4388|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 1715ca37-7bae-4896-8632-3e441a33371c, callId 123ac, phonenumber 6984755636, origin 0, cleintId 31231, Duration 7, Time 4/5/2020 9:18:45 μμ
+2020-05-04 21:18:45.7732|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 1 and duration 7
+2020-05-04 21:18:45.7732|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 2 and duration 125
+2020-05-04 21:18:45.8022|4388|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 5 and duration 0
+2020-05-04 21:18:45.8022|4388|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id ac376f6f-85cc-4dcc-b4e5-13c3ed0122ee, callId 123ad, phonenumber 697145256, origin 0, cleintId 31231, Duration 132, Time 4/5/2020 9:18:45 μμ
+2020-05-04 21:19:58.6060|15476|INFO|DialerDemo.Program.Main|Application Started
+2020-05-04 21:19:59.2330|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 0 and duration 1
+2020-05-04 21:19:59.2630|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 1 and duration 4
+2020-05-04 21:19:59.3100|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 2 and duration 63
+2020-05-04 21:19:59.3250|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 5 and duration 0
+2020-05-04 21:19:59.3250|15476|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id c96d0668-b4e0-4990-9d69-512e3b3297ae, callId 123ab, phonenumber 2104848488, origin 0, cleintId 31231, Duration 68, Time 4/5/2020 9:19:59 μμ
+2020-05-04 21:19:59.3380|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 1 and duration 5
+2020-05-04 21:19:59.3380|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 3 and duration 1
+2020-05-04 21:19:59.3630|15476|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 39182c83-231d-43b3-9376-1e81b3f44260, callId 123ac, phonenumber 6984755636, origin 0, cleintId 31231, Duration 6, Time 4/5/2020 9:19:59 μμ
+2020-05-04 21:19:59.3630|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 5 and duration 0
+2020-05-04 21:19:59.3790|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 1 and duration 7
+2020-05-04 21:19:59.3940|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 2 and duration 125
+2020-05-04 21:19:59.4070|15476|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 2aa4ace5-0c05-4db9-8331-bb4f8e338879, callId 123ad, phonenumber 697145256, origin 0, cleintId 31231, Duration 132, Time 4/5/2020 9:19:59 μμ
+2020-05-04 21:19:59.4070|15476|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 5 and duration 0
+2020-05-04 21:20:27.1050|10812|INFO|DialerDemo.Program.Main|Application Started
+2020-05-04 21:20:27.3980|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 0 and duration 1
+2020-05-04 21:20:27.4150|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 1 and duration 4
+2020-05-04 21:20:27.4300|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 2 and duration 63
+2020-05-04 21:20:27.4300|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ab phone number 2104848488 state 5 and duration 0
+2020-05-04 21:20:27.4470|10812|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id a2c708ed-4948-4b7b-acd6-441495c58c1e, callId 123ab, phonenumber 2104848488, origin 0, cleintId 31231, Duration 68, Time 4/5/2020 9:20:27 μμ
+2020-05-04 21:20:27.4470|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 1 and duration 5
+2020-05-04 21:20:27.4730|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 3 and duration 1
+2020-05-04 21:20:27.4850|10812|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id 29c4f998-22b6-4adb-95d3-b3fdef8116df, callId 123ac, phonenumber 6984755636, origin 0, cleintId 31231, Duration 6, Time 4/5/2020 9:20:27 μμ
+2020-05-04 21:20:27.4850|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ac phone number 6984755636 state 5 and duration 0
+2020-05-04 21:20:27.5010|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 1 and duration 7
+2020-05-04 21:20:27.5160|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 2 and duration 125
+2020-05-04 21:20:27.5290|10812|INFO|DialerDemo.Program+<>c__DisplayClass6_0+<<ProcessQMessages>b__1>d.MoveNext|Call with id abf421a8-76bb-4b88-a0ec-94a002af1b03, callId 123ad, phonenumber 697145256, origin 0, cleintId 31231, Duration 132, Time 4/5/2020 9:20:27 μμ
+2020-05-04 21:20:27.5290|10812|INFO|DialerDemo.Program+<>c+<<ProcessDialerCalls>b__5_0>d.MoveNext|Message enqueued with call id 123ad phone number 697145256 state 5 and duration 0
