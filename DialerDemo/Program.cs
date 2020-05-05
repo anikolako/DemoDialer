@@ -25,6 +25,7 @@ namespace DialerDemo
         private static List<Dialer.Call> calls;
         private static DialerDemo.RabitMQ.Enqueuer enqueuer;
         private static NLog.Logger nLog = LogManager.GetCurrentClassLogger();
+
         static void Main(string[] args)
         {
             nLog.Info("Application Started");
