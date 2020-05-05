@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DialerDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rmqhostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vs2017rnd.mellon.gr</Value>
+    </Setting>
+    <Setting Name="rmqpassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conceptus</Value>
+    </Setting>
+    <Setting Name="rmqusername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conceptus</Value>
+    </Setting>
+    <Setting Name="rmqport" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5672</Value>
+    </Setting>
+    <Setting Name="Exchange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MCS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
